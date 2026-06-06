@@ -1,0 +1,23 @@
+:root {
+  --gold: #c9a84c;
+  --deep-red: #8b1a1a;
+  --ivory: #f5f0e8;
+  --dark-ink: #1a1208;
+  --cobalt: #1b3a6b;
+  --burnt-sienna: #a0522d;
+  --muted-green: #3b5e45;
+  --light-gold: #e8d5a3;
+  --color-background-secondary: rgba(245, 240, 232, 0.9);
+
+  --font-display: 'Cinzel', serif;
+  --font-body: 'Lora', serif;
+  --font-script: 'Amiri', serif;
+
+  --shadow-warm: 0 18px 40px rgba(26, 18, 8, 0.16);
+  --shadow-gold: 0 20px 40px rgba(201, 168, 76, 0.28);
+  --radius-xl: 28px;
+  --radius-lg: 22px;
+  --radius-md: 16px;
+  --radius-sm: 12px;
+  --border-ornate: 1px solid rgba(201, 168, 76, 0.7);
+}
